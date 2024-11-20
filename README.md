@@ -1,4 +1,4 @@
-# Furniture-Sales-Analysis-Project ( using Excel)
+# Furniture-Sales-Analysis-Project (using Excel)
 ## Overview
 This project focuses on performing a comprehensive sales analysis for a furniture export company. The objective was to extract meaningful insights using Excel tools to analyze sales, purchases, and performance across different regions, product categories, and years. The project included creating pivot tables, applying various Excel functions, and designing interactive dashboards to support decision-making.
 ## Key Insights
